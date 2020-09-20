@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="https://github.com/rocketseat-education/nlw-02-discovery/blob/master/.github/proffy.png" />
+    <img alt="Proffy" title="Proffy" src="https://github.com/rocketseat-education/nlw-02-discovery/blob/master/.github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/proffy.png" width="100%">
+  <img alt="Proffy" src="https://github.com/rocketseat-education/nlw-02-discovery/blob/master/.github/proffy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
