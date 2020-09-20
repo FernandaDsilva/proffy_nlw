@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
+    <img alt="Proffy" title="Proffy" src="https://github.com/rocketseat-education/nlw-02-discovery/blob/master/.github/proffy.png" />
 </h1>
 
 <p align="center">
